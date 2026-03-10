@@ -1,0 +1,7 @@
+在 versions[] 中查找指定 id，取该版本的 url。
+GET 版本详情 JSON，解析 downloads.client 的 url、sha1。
+创建目录 versions/<versionId>/。
+将版本 JSON 保存到 versions/<versionId>/<versionId>.json。
+下载 client.jar 到 versions/<versionId>/<versionId>.jar，边读边算 SHA-1，与期望值比对。
+使用临时文件 *.part + 原子替换，校验失败即删除临时文件并报错。
+返回 client.jar 路径，记录日志。

@@ -1,0 +1,84 @@
+2025-11-08 00:46:49.666 INFO [BlockLauncher] 
+BBBBBBBBB     K     K    L
+B       B     K    K     L
+B       B     K   K      L
+B       B     K  K       L
+BBBBBBBBB     KKK        L
+B       B     K  K       L
+B       B     K   K      L
+B       B     K    K     L
+BBBBBBBBB     K     K    LLLLLLLLL
+
+2025-11-08 00:46:49.667 INFO [BlockLauncher] BlockLauncher starting
+2025-11-08 00:46:49.685 INFO [BlockLauncher] game version checking complete
+2025-11-08 00:46:49.742 INFO [org.bkl.game.MCVersionChecker] Minecraft installation not found
+2025-11-08 00:46:49.774 INFO [BlockLauncher] game start util initial complete
+2025-11-08 00:46:55.773 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open game install pane
+2025-11-08 00:46:57.233 INFO [org.bkl.game.MCVersionChecker] Minecraft installation not found
+2025-11-08 00:48:21.733 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open game install pane
+2025-11-08 00:48:21.735 INFO [org.bkl.game.MCVersionChecker] Minecraft installation not found
+2025-11-08 00:48:23.230 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] current game version is null, can not open modloader auto install pane
+2025-11-08 00:48:23.815 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] current game version is null, can not open modloader auto install pane
+2025-11-08 00:48:24.009 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] current game version is null, can not open modloader auto install pane
+2025-11-08 00:48:25.169 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] current game version is null, can not open modloader auto install pane
+2025-11-08 00:48:25.347 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] current game version is null, can not open modloader auto install pane
+2025-11-09 20:02:30.146 INFO [BlockLauncher] 
+BBBBBBBBB     K     K    L
+B       B     K    K     L
+B       B     K   K      L
+B       B     K  K       L
+BBBBBBBBB     KKK        L
+B       B     K  K       L
+B       B     K   K      L
+B       B     K    K     L
+BBBBBBBBB     K     K    LLLLLLLLL
+
+2025-11-09 20:02:30.147 INFO [BlockLauncher] BlockLauncher starting
+2025-11-09 20:02:30.164 INFO [BlockLauncher] game version checking complete
+2025-11-09 20:02:30.221 INFO [org.bkl.game.MCVersionChecker] Minecraft installation not found
+2025-11-09 20:02:30.246 INFO [BlockLauncher] game start util initial complete
+2025-11-09 20:02:34.873 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open game install pane
+2025-11-09 20:02:38.435 INFO [org.bkl.game.MCVersionChecker] Minecraft installation not found
+2025-11-09 20:02:47.128 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open game install pane
+2025-11-09 20:02:47.130 INFO [org.bkl.game.MCVersionChecker] Minecraft installation not found
+2025-11-09 20:02:53.727 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open game install pane
+2025-11-09 20:02:53.729 INFO [org.bkl.game.MCVersionChecker] Minecraft installation not found
+2025-11-09 20:02:55.807 INFO [org.bkl.download.Download4VersionManifest] Client jar hash verification failed.
+2025-11-09 20:03:19.338 INFO [org.bkl.download.Download4VersionManifest] Client jar downloaded successfully.
+2025-11-09 20:03:19.344 INFO [org.bkl.download.Download4VersionManifest] Downloading library: ca/weblite/java-objc-bridge/1.1/java-objc-bridge-1.1.jar
+2025-12-16 23:22:37.726 INFO [BlockLauncher] 
+BBBBBBBBB     K     K    L
+B       B     K    K     L
+B       B     K   K      L
+B       B     K  K       L
+BBBBBBBBB     KKK        L
+B       B     K  K       L
+B       B     K   K      L
+B       B     K    K     L
+BBBBBBBBB     K     K    LLLLLLLLL
+
+2025-12-16 23:22:37.728 INFO [BlockLauncher] BlockLauncher starting
+2025-12-16 23:22:37.746 INFO [BlockLauncher] game version checking complete
+2025-12-16 23:22:37.818 INFO [org.bkl.game.MCVersionChecker] Minecraft version list: [1.21.10]
+2025-12-16 23:22:37.913 INFO [BlockLauncher] game start util initial complete
+2025-12-16 23:22:43.895 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open version manage global pane for version: 1.21.10
+2025-12-16 23:22:51.063 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open version manage global pane for version: 1.21.10
+2025-12-16 23:22:52.029 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open modloader auto install pane for version: 1.21.10
+2026-01-27 21:33:17.815 INFO [BlockLauncher] 
+BBBBBBBBB     K     K    L
+B       B     K    K     L
+B       B     K   K      L
+B       B     K  K       L
+BBBBBBBBB     KKK        L
+B       B     K  K       L
+B       B     K   K      L
+B       B     K    K     L
+BBBBBBBBB     K     K    LLLLLLLLL
+
+2026-01-27 21:33:17.816 INFO [BlockLauncher] BlockLauncher starting
+2026-01-27 21:33:17.830 INFO [BlockLauncher] game version checking complete
+2026-01-27 21:33:17.875 INFO [org.bkl.game.MCVersionChecker] Minecraft version list: [1.21.10]
+2026-01-27 21:33:17.936 INFO [BlockLauncher] game start util initial complete
+2026-01-27 21:33:25.390 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open version manage global pane for version: 1.21.10
+2026-01-27 21:33:48.892 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open version manage global pane for version: 1.21.10
+2026-01-27 21:33:51.095 INFO [org.bkl.ui.versionmanage.VersionManageLeftPane] open modloader auto install pane for version: 1.21.10
